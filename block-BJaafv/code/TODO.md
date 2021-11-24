@@ -22,6 +22,8 @@ function sum(a, b) {
 
 6. What will be the output of the function below and why?
 
+
+
 ```js
 let userName = 'John';
 
